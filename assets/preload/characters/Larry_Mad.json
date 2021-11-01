@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-100
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "WhatYouKnowAboutRollingDownInTheDeep",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "twitter left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				21,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "twitter left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				170
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "twitter up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-142
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "twitter down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				174
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "twitter up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				37
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "twitter right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "twitter right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "twitter idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "twitter idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Larry_Mad",
+	"position": [
+		120,
+		160
+	],
+	"healthicon": "larry-mad",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Larry_Mad.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="twitter down angry0000" x="10" y="10" width="531" height="413" frameX="-1" frameY="-37" frameWidth="532" frameHeight="450"/>
+	<SubTexture name="twitter down angry0001" x="553" y="10" width="530" height="423" frameX="-1" frameY="-27" frameWidth="532" frameHeight="450"/>
+	<SubTexture name="twitter down angry0002" x="1095" y="10" width="531" height="434" frameX="0" frameY="-16" frameWidth="532" frameHeight="450"/>
+	<SubTexture name="twitter down angry0003" x="1638" y="10" width="528" height="450" frameX="0" frameY="0" frameWidth="532" frameHeight="450"/>
+	<SubTexture name="twitter down angry0004" x="1638" y="10" width="528" height="450" frameX="0" frameY="0" frameWidth="532" frameHeight="450"/>
+	<SubTexture name="twitter down angry0005" x="1638" y="10" width="528" height="450" frameX="0" frameY="0" frameWidth="532" frameHeight="450"/>
+	<SubTexture name="twitter idle angry0000" x="2178" y="10" width="495" height="538" frameX="-4" frameY="-29" frameWidth="499" frameHeight="567"/>
+	<SubTexture name="twitter idle angry0001" x="2685" y="10" width="490" height="553" frameX="-3" frameY="-14" frameWidth="499" frameHeight="567"/>
+	<SubTexture name="twitter idle angry0002" x="3187" y="10" width="491" height="560" frameX="-1" frameY="-7" frameWidth="499" frameHeight="567"/>
+	<SubTexture name="twitter idle angry0003" x="10" y="582" width="491" height="567" frameX="0" frameY="0" frameWidth="499" frameHeight="567"/>
+	<SubTexture name="twitter idle angry0004" x="10" y="582" width="491" height="567" frameX="0" frameY="0" frameWidth="499" frameHeight="567"/>
+	<SubTexture name="twitter idle angry0005" x="10" y="582" width="491" height="567" frameX="0" frameY="0" frameWidth="499" frameHeight="567"/>
+	<SubTexture name="twitter left angry0000" x="513" y="582" width="535" height="584" frameX="0" frameY="-6" frameWidth="546" frameHeight="590"/>
+	<SubTexture name="twitter left angry0001" x="1060" y="582" width="537" height="584" frameX="-2" frameY="-6" frameWidth="546" frameHeight="590"/>
+	<SubTexture name="twitter left angry0002" x="1609" y="582" width="538" height="584" frameX="-5" frameY="-6" frameWidth="546" frameHeight="590"/>
+	<SubTexture name="twitter left angry0003" x="2159" y="582" width="516" height="590" frameX="-30" frameY="0" frameWidth="546" frameHeight="590"/>
+	<SubTexture name="twitter left angry0004" x="2159" y="582" width="516" height="590" frameX="-30" frameY="0" frameWidth="546" frameHeight="590"/>
+	<SubTexture name="twitter left angry0005" x="2159" y="582" width="516" height="590" frameX="-30" frameY="0" frameWidth="546" frameHeight="590"/>
+	<SubTexture name="twitter right angry0000" x="2687" y="582" width="633" height="599" frameX="-27" frameY="0" frameWidth="660" frameHeight="599"/>
+	<SubTexture name="twitter right angry0001" x="3332" y="582" width="626" height="597" frameX="-18" frameY="-2" frameWidth="660" frameHeight="599"/>
+	<SubTexture name="twitter right angry0002" x="10" y="1193" width="625" height="596" frameX="-2" frameY="-3" frameWidth="660" frameHeight="599"/>
+	<SubTexture name="twitter right angry0003" x="647" y="1193" width="600" height="585" frameX="0" frameY="-14" frameWidth="660" frameHeight="599"/>
+	<SubTexture name="twitter right angry0004" x="647" y="1193" width="600" height="585" frameX="0" frameY="-14" frameWidth="660" frameHeight="599"/>
+	<SubTexture name="twitter right angry0005" x="647" y="1193" width="600" height="585" frameX="0" frameY="-14" frameWidth="660" frameHeight="599"/>
+	<SubTexture name="twitter up angry0000" x="1259" y="1193" width="724" height="654" frameX="0" frameY="0" frameWidth="724" frameHeight="681"/>
+	<SubTexture name="twitter up angry0001" x="1995" y="1193" width="700" height="654" frameX="-19" frameY="-10" frameWidth="724" frameHeight="681"/>
+	<SubTexture name="twitter up angry0002" x="2707" y="1193" width="673" height="656" frameX="-36" frameY="-17" frameWidth="724" frameHeight="681"/>
+	<SubTexture name="twitter up angry0003" x="3392" y="1193" width="648" height="635" frameX="-35" frameY="-46" frameWidth="724" frameHeight="681"/>
+	<SubTexture name="twitter up angry0004" x="3392" y="1193" width="648" height="635" frameX="-35" frameY="-46" frameWidth="724" frameHeight="681"/>
+	<SubTexture name="twitter up angry0005" x="3392" y="1193" width="648" height="635" frameX="-35" frameY="-46" frameWidth="724" frameHeight="681"/>
+</TextureAtlas>

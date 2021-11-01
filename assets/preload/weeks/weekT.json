@@ -1,0 +1,48 @@
+{
+	"storyName": "Tweet!",
+	"hideFreeplay": false,
+	"weekBackground": "drop",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"birb",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Tweeter",
+			"larry",
+			[
+				0,
+				151,
+				225
+			]
+		],
+		[
+			"Drama",
+			"larry",
+			[
+				0,
+				151,
+				225
+			]
+		],
+		[
+			"Cancellation",
+			"larry-mad",
+			[
+				0,
+				111,
+				165
+			]
+		]
+	],
+	"weekName": "Week T"
+}

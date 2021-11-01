@@ -1,0 +1,30 @@
+{
+	"storyName": "Canceled...",
+	"hideFreeplay": false,
+	"weekBackground": "drop",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekT",
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"birb",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Harrasment",
+			"larry-mad",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"weekName": "Week T2"
+}

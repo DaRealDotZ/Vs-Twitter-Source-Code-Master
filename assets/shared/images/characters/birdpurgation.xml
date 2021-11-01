@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="birdpurgation.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="twitter down0000" x="0" y="0" width="535" height="496" frameX="-1" frameY="-45" frameWidth="536" frameHeight="541"/>
+	<SubTexture name="twitter down0001" x="535" y="0" width="535" height="504" frameX="-1" frameY="-32" frameWidth="536" frameHeight="541"/>
+	<SubTexture name="twitter down0002" x="1070" y="0" width="535" height="519" frameX="0" frameY="-16" frameWidth="536" frameHeight="541"/>
+	<SubTexture name="twitter down0003" x="1605" y="0" width="532" height="536" frameX="0" frameY="0" frameWidth="536" frameHeight="541"/>
+	<SubTexture name="twitter down0004" x="1605" y="0" width="532" height="536" frameX="0" frameY="0" frameWidth="536" frameHeight="541"/>
+	<SubTexture name="twitter down0005" x="1605" y="0" width="532" height="536" frameX="0" frameY="0" frameWidth="536" frameHeight="541"/>
+	<SubTexture name="twitter idle0000" x="2137" y="0" width="499" height="610" frameX="-4" frameY="-40" frameWidth="503" frameHeight="650"/>
+	<SubTexture name="twitter idle0001" x="2636" y="0" width="493" height="624" frameX="-3" frameY="-26" frameWidth="503" frameHeight="650"/>
+	<SubTexture name="twitter idle0002" x="3129" y="0" width="495" height="637" frameX="-1" frameY="-13" frameWidth="503" frameHeight="650"/>
+	<SubTexture name="twitter idle0003" x="3624" y="0" width="495" height="650" frameX="0" frameY="0" frameWidth="503" frameHeight="650"/>
+	<SubTexture name="twitter idle0004" x="3624" y="0" width="495" height="650" frameX="0" frameY="0" frameWidth="503" frameHeight="650"/>
+	<SubTexture name="twitter idle0005" x="3624" y="0" width="495" height="650" frameX="0" frameY="0" frameWidth="503" frameHeight="650"/>
+	<SubTexture name="twitter left0000" x="4119" y="0" width="579" height="705" frameX="0" frameY="0" frameWidth="605" frameHeight="705"/>
+	<SubTexture name="twitter left0001" x="4698" y="0" width="548" height="687" frameX="-27" frameY="-18" frameWidth="605" frameHeight="705"/>
+	<SubTexture name="twitter left0002" x="5246" y="0" width="538" height="668" frameX="-56" frameY="-37" frameWidth="605" frameHeight="705"/>
+	<SubTexture name="twitter left0003" x="5784" y="0" width="519" height="654" frameX="-86" frameY="-51" frameWidth="605" frameHeight="705"/>
+	<SubTexture name="twitter left0004" x="5784" y="0" width="519" height="654" frameX="-86" frameY="-51" frameWidth="605" frameHeight="705"/>
+	<SubTexture name="twitter left0005" x="5784" y="0" width="519" height="654" frameX="-86" frameY="-51" frameWidth="605" frameHeight="705"/>
+	<SubTexture name="twitter right0000" x="6303" y="0" width="638" height="660" frameX="-27" frameY="0" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="twitter right0001" x="6941" y="0" width="629" height="659" frameX="-18" frameY="-1" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="twitter right0002" x="0" y="705" width="629" height="655" frameX="-2" frameY="-5" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="twitter right0003" x="629" y="705" width="604" height="651" frameX="0" frameY="-9" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="twitter right0004" x="629" y="705" width="604" height="651" frameX="0" frameY="-9" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="twitter right0005" x="629" y="705" width="604" height="651" frameX="0" frameY="-9" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="twitter up0000" x="1233" y="705" width="896" height="810" frameX="0" frameY="0" frameWidth="896" frameHeight="852"/>
+	<SubTexture name="twitter up0001" x="2129" y="705" width="877" height="765" frameX="-8" frameY="-50" frameWidth="896" frameHeight="852"/>
+	<SubTexture name="twitter up0002" x="3006" y="705" width="858" height="722" frameX="-16" frameY="-98" frameWidth="896" frameHeight="852"/>
+	<SubTexture name="twitter up0003" x="3864" y="705" width="839" height="708" frameX="-23" frameY="-144" frameWidth="896" frameHeight="852"/>
+	<SubTexture name="twitter up0004" x="3864" y="705" width="839" height="708" frameX="-23" frameY="-144" frameWidth="896" frameHeight="852"/>
+	<SubTexture name="twitter up0005" x="3864" y="705" width="839" height="708" frameX="-23" frameY="-144" frameWidth="896" frameHeight="852"/>
+	<SubTexture name="twitter yell0000" x="4703" y="705" width="1082" height="726" frameX="-89" frameY="-4" frameWidth="1352" frameHeight="737"/>
+	<SubTexture name="twitter yell0001" x="5785" y="705" width="1127" height="726" frameX="-73" frameY="-6" frameWidth="1352" frameHeight="737"/>
+	<SubTexture name="twitter yell0002" x="6912" y="705" width="1168" height="728" frameX="-58" frameY="-4" frameWidth="1352" frameHeight="737"/>
+	<SubTexture name="twitter yell0003" x="0" y="1515" width="1205" height="733" frameX="-45" frameY="-2" frameWidth="1352" frameHeight="737"/>
+	<SubTexture name="twitter yell0004" x="1205" y="1515" width="1240" height="735" frameX="-33" frameY="-1" frameWidth="1352" frameHeight="737"/>
+	<SubTexture name="twitter yell0005" x="2445" y="1515" width="1270" height="736" frameX="-23" frameY="0" frameWidth="1352" frameHeight="737"/>
+	<SubTexture name="twitter yell0006" x="3715" y="1515" width="1296" height="736" frameX="-15" frameY="-1" frameWidth="1352" frameHeight="737"/>
+	<SubTexture name="twitter yell0007" x="5011" y="1515" width="1319" height="735" frameX="-8" frameY="-2" frameWidth="1352" frameHeight="737"/>
+	<SubTexture name="twitter yell0008" x="6330" y="1515" width="1338" height="732" frameX="-3" frameY="-5" frameWidth="1352" frameHeight="737"/>
+	<SubTexture name="twitter yell0009" x="0" y="2251" width="1352" height="728" frameX="0" frameY="-9" frameWidth="1352" frameHeight="737"/>
+</TextureAtlas>

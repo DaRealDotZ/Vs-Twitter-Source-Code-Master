@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				120
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "twitter idle"
+		},
+		{
+			"offsets": [
+				160,
+				120
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "twitter idle"
+		},
+		{
+			"offsets": [
+				224,
+				180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "twitter left"
+		},
+		{
+			"offsets": [
+				224,
+				180
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [],
+			"name": "twitter left"
+		},
+		{
+			"offsets": [
+				370,
+				314
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [],
+			"name": "twitter up"
+		},
+		{
+			"offsets": [
+				160,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "twitter down"
+		},
+		{
+			"offsets": [
+				370,
+				314
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "twitter up"
+		},
+		{
+			"offsets": [
+				130,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "twitter right"
+		},
+		{
+			"offsets": [
+				130,
+				120
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [],
+			"name": "twitter right"
+		},
+		{
+			"offsets": [
+				550,
+				200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "twitter yell"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/birdpurgation",
+	"position": [
+		120,
+		160
+	],
+	"healthicon": "birdpurgation",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

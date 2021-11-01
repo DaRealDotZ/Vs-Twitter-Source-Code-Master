@@ -1,0 +1,11 @@
+{
+
+    "image": "Menu_Birb",
+    "position": [
+        160,
+        90
+    ],
+    "scale": 0.6,
+    "idle_anim": "twitter idle instance",
+    "confirm_anim": "twitter idle instance"
+}

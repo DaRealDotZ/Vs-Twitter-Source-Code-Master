@@ -1,0 +1,30 @@
+{
+	"storyName": "death",
+	"hideFreeplay": false,
+	"weekBackground": "drop",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Twittergation",
+			"birdpurgation",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"birb",
+		"bf",
+		"gf"
+	],
+	"weekName": "Week T"
+}

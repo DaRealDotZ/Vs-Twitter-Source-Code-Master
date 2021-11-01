@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Birb.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="twitter idle instance 10000" x="0" y="0" width="495" height="538" frameX="-5" frameY="-30" frameWidth="500" frameHeight="568"/>
+	<SubTexture name="twitter idle instance 10001" x="495" y="0" width="491" height="548" frameX="-3" frameY="-20" frameWidth="500" frameHeight="568"/>
+	<SubTexture name="twitter idle instance 10002" x="986" y="0" width="491" height="558" frameX="-1" frameY="-10" frameWidth="500" frameHeight="568"/>
+	<SubTexture name="twitter idle instance 10003" x="1477" y="0" width="491" height="568" frameX="0" frameY="0" frameWidth="500" frameHeight="568"/>
+	<SubTexture name="twitter idle instance 10004" x="1477" y="0" width="491" height="568" frameX="0" frameY="0" frameWidth="500" frameHeight="568"/>
+	<SubTexture name="twitter idle instance 10005" x="1477" y="0" width="491" height="568" frameX="0" frameY="0" frameWidth="500" frameHeight="568"/>
+</TextureAtlas>
