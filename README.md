@@ -8,6 +8,7 @@ Team Bluebird:
 * Pump - Charter & Secondary Artist
 * David n' Windows - Animator
 * E - Additional Artist
+### Psych Funkers
 Psych Engine:
 * Shadow Mario - Coding
 * RiverOaken - Arts and Animations
